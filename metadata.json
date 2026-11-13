@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Range 3D",
+  "description": "3D first-person and third-person tactical gun shooting simulator with 17 weapons, 100 missions, 7 environments, and customizable mobile touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
